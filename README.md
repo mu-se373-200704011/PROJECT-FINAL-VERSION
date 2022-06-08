@@ -74,12 +74,15 @@ On the server side, I created a web app that handles required CRUD operations in
 - **List** (Protected)
 
 **Database:**
-<img src="/assets/images/db.png" width="200" />
+
+<img src="/assets/images/db.png" width="400" />
 
 Architecture Overview
 
 **For client side**
-<img src="/assets/images/c_arch.png" width="200" />
+
+<img src="/assets/images/c_arch.png" width="400" />
 
 **For backend side**
-<img src="/assets/images/b_arch.png" width="200" />
+
+<img src="/assets/images/b_arch.png" width="400" />
