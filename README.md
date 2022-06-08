@@ -63,18 +63,23 @@ On the server side, I created a web app that handles required CRUD operations in
 
 - **Settings** (unprotected)
   - Register Page
+<img src="/assets/images/register_log_in.png" width="200" />
   - Login Page
+<img src="/assets/images/register_log_in.png" width="200" />
   - LogOut page
+<img src="/assets/images/log_out.png" width="200" />
+
 
 - **Home** (Protected)
 - **List** (Protected)
 
-**Database:**![](RackMultipart20220608-1-bk2oa0_html_f20751368163fe5c.png)
+**Database:**
+<img src="/assets/images/db.png" width="200" />
 
 Architecture Overview
 
-For client side
+**For client side**
+<img src="/assets/images/c_arch.png" width="200" />
 
-![](RackMultipart20220608-1-bk2oa0_html_7ab601aba4281820.png)
-
-**For backend side**![](RackMultipart20220608-1-bk2oa0_html_c760f6a867dd61a0.gif)
+**For backend side**
+<img src="/assets/images/b_arch.png" width="200" />
